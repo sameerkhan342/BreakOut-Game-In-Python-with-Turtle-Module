@@ -17,9 +17,9 @@ This project demonstrates basic game physics, collision detection, and event han
 ## 🖼️ Preview
 
 ### 🏠 Home Screen  
-![Home Screen](home.png)
+![Home Screen](images/home.png)
 
 ### 🏆 Win Screen  
-![Win Screen](win.png)
+![Win Screen](images/win.png)
 
 ---
