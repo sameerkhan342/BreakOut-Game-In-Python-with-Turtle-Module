@@ -1,2 +1,25 @@
-# BreakOut-Game-In-Python-with-Turtle-Module
-This project is a classic Breakout Game built using Python’s turtle module. The player controls a paddle to bounce a ball and break rows of colorful bricks. It demonstrates object movement, collision detection, and score tracking in a fun interactive game.
+# 🧱 Breakout Game (Python Turtle)
+
+A classic **Breakout arcade game** built using Python’s `turtle` module.  
+Control the paddle, bounce the ball, and break all the colorful bricks to win!  
+This project demonstrates basic game physics, collision detection, and event handling with Python.
+
+---
+
+## 🎮 Features
+- Paddle and ball movement with smooth animation  
+- Brick-breaking mechanics with collision detection  
+- Score tracking and win screen  
+- Simple, single-file design for easy debugging  
+
+---
+
+## 🖼️ Preview
+
+### 🏠 Home Screen  
+![Home Screen](home.png)
+
+### 🏆 Win Screen  
+![Win Screen](win.png)
+
+---
